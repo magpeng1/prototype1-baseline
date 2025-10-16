@@ -56,7 +56,7 @@ const JournalEntry = () => {
           <div className="inline-flex items-center gap-2 mb-3">
             <BookOpen className="w-6 h-6 text-primary" />
             <h1 className="text-3xl font-serif font-semibold text-foreground">
-              My Journal
+              Journl
             </h1>
           </div>
           <p className="text-sm text-muted-foreground">{today}</p>
